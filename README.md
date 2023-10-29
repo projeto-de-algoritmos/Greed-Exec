@@ -10,6 +10,12 @@
 ## Sobre 
 Meu projeto se trata sobre a resolução de alguns exercícios no juiz online LeetCode utilizando os algoritmos apresentados no decorrer das aulas de Algoritmos ambiciosos, os exercícios escolhidos foram [**Non-overlapping Intervals**](https://leetcode.com/problems/non-overlapping-intervals/description/), [**Minimum Number of Arrows to Burst Balloons**](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/), [**Maximum Length of Pair Chain**](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) e [**Encode and Decode TinyURL.**](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 
+## Video
+Para o video eu disponibilizei no repositorio com uma qualidade bem duvidoso e bem acelerado devido limitações do github, e disponibilizei o video no Youtube.
+
+[Repositorio](video/video.mp4)
+
+[Youtube](https://youtu.be/34dpgNziZzo)
 
 ## Screenshots
 ### Resultados
